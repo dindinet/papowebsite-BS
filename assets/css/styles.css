@@ -3,7 +3,7 @@
 }
 .jumbotron{
   background-color:#8b5189;
-  background-image:url(&quot;https://lh3.googleusercontent.com/-XfK6rDSzoLg/WXi6Fr1VL5I/AAAAAAAAS-k/rG1-Kn8jsbwSciq_vBe0xn4UGaDxENr8wCJoC/s1600-e30/1.jpg&quot;);
+  background-image:url(https://lh3.googleusercontent.com/-XfK6rDSzoLg/WXi6Fr1VL5I/AAAAAAAAS-k/rG1-Kn8jsbwSciq_vBe0xn4UGaDxENr8wCJoC/s1600-e30/1.jpg);
   background-size:cover;
   background-repeat:no-repeat;
 }
