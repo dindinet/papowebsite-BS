@@ -1,0 +1,25 @@
+.h1, h1 {
+  font-size:28px;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+  font-size:40px;
+  font-weight:bold;
+  text-shadow:black 2px 2px;
+}
+
+.jumbotron h3 {
+  text-shadow:black 3px 1px;
+}
+
+.jumbotron p {
+  text-shadow:black 1px 1px;
+}
+
+.img-thumbnail {
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+  border-radius:0px;
+}
+
