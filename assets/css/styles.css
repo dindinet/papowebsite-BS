@@ -32,6 +32,12 @@
 .container .jumbotron, .container-fluid .jumbotron {
   border-radius:0px;
 }
+div#intro{
+  border: 6px dashed #8b5189;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 44px 64px;
+}
 #intro p{font-family: serif; font-size: 18px;}
 #benefits img{margin-bottom:24px;}
 #benefits h3.text-center {color: #8b5189;}
