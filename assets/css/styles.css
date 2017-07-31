@@ -32,7 +32,7 @@
 .container .jumbotron, .container-fluid .jumbotron {
   border-radius:0px;
 }
-#intro p{font-family: serif; font-size: 24px;}
+#intro p{font-family: serif; font-size: 18px;}
 #benefits img{margin-bottom:24px;}
 #benefits h3.text-center {color: #8b5189;}
 
