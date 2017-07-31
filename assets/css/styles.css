@@ -32,11 +32,11 @@
 .container .jumbotron, .container-fluid .jumbotron {
   border-radius:0px;
 }
-
+#intro p{font-family: serif; font-size: 24px;}
 #benefits img{margin-bottom:24px;}
 #benefits h3.text-center {color: #8b5189;}
 
-#intro p, #benefits p.benefits{font-family: serif; font-size: 24px;}
+#benefits p.benefits{font-family: serif; font-size: 24px;}
 
 .bendesc{display:none;}
 
