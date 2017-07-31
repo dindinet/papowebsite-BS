@@ -6,8 +6,11 @@
   background-image:url(https://lh3.googleusercontent.com/-XfK6rDSzoLg/WXi6Fr1VL5I/AAAAAAAAS-k/rG1-Kn8jsbwSciq_vBe0xn4UGaDxENr8wCJoC/s1600-e30/1.jpg);
   background-size:cover;
   background-repeat:no-repeat;
+  min-height: 300px;
 }
+
 .jumbotron .h1, .jumbotron h1 {
+  padding-top: 40px;
   color: rgb(252,250,250);
   font-size:40px;
   font-weight:bold;
@@ -27,6 +30,13 @@
 }
 
 .img-thumbnail {
+}
+
+#bigintro{
+  font-size: 4em;
+  font-weight: 900;
+  color: #8b5189;
+  text-shadow: 1px 1px black;
 }
 
 .container .jumbotron, .container-fluid .jumbotron {
