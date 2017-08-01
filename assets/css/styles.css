@@ -15,9 +15,15 @@
   min-height: 300px;
 }
 .jumbotron .downarrow{
+  text-align: center;
   font-size: 64px;
   display: block;
   color: white;
+  text-decoration: none;
+}
+.jumbotron .downarrow:hover{
+  color:#8b5189;
+
 }
 
 .jumbotron .h1, .jumbotron h1 {
