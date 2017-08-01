@@ -21,6 +21,13 @@
   color: white;
   text-decoration: none;
 }
+ a svg:hover polyline:last-child{
+   stroke: #8b5189 !important;
+ }
+
+ a svg:hover polyline{
+   stroke: #8b5189 !important;
+ }
 .jumbotron .downarrow:hover{
   color:#8b5189;
 
