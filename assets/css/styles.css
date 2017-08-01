@@ -50,7 +50,7 @@
 }
 
 #bigintro{
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 900;
   color: #8b5189;
   text-shadow: 1px 1px black;
@@ -72,4 +72,11 @@ div#intro{
 #benefits p.benefits{font-family: serif; font-size: 24px;}
 
 .bendesc{display:none;}
+
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop */
+    #bigintro{
+  font-size: 4em;
+    }
+}
 
