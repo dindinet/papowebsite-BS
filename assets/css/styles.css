@@ -4,9 +4,20 @@
 .jumbotron{
   background-color:#8b5189;
   background-image:url(https://lh3.googleusercontent.com/-XfK6rDSzoLg/WXi6Fr1VL5I/AAAAAAAAS-k/rG1-Kn8jsbwSciq_vBe0xn4UGaDxENr8wCJoC/s1600-e30/1.jpg);
+/*
+
+  https://s-media-cache-ak0.pinimg.com/originals/0a/8d/42/0a8d42aadffb455cd54a1db2f557c9df.jpg
+  https://s-media-cache-ak0.pinimg.com/originals/62/90/56/629056853bef11502b0208e83aab3fb2.gif 
+
+*/
   background-size:cover;
   background-repeat:no-repeat;
   min-height: 300px;
+}
+.jumbotron .downarrow{
+  font-size: 64px;
+  display: block;
+  color: white;
 }
 
 .jumbotron .h1, .jumbotron h1 {
